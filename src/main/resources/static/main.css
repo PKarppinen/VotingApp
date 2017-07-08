@@ -1,0 +1,37 @@
+body > div {
+  text-align: center;
+}
+
+body > div > div {
+  display: inline-block;
+}
+
+#buttonVoteYesID {
+    border: none;
+}
+
+#buttonVoteNoID {
+    border: none;
+}
+
+#NoVotesSpanID {
+    display: inline-block;
+}
+
+#YesVotesSpanID {
+    display: inline-block;
+}
+
+h1 {
+  color: #4584ab;
+}
+
+.glyphicon-ok {
+  color: #18e518;
+  font-size: 40px;
+}
+
+.glyphicon-remove {
+  color: #fa190b;
+  font-size: 40px;
+}

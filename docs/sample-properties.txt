@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:postgresql://127.0.0.1:5432/votingappdb
+spring.datasource.username=votingappdbuser
+spring.datasource.password=votingappdbuser   
+spring.jpa.hibernate.ddl-auto=create-drop
+
+
+spring.data.mongodb.host=127.0.0.1
+spring.data.mongodb.port=27017
