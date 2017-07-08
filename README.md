@@ -4,4 +4,4 @@ GUI uses API to get and store data. GUI and API both run on Tomcat.
 
 Run "mvnw spring-boot:run" to run GUI and API. Remember to have PostgreSQL running
 locally on port 5432. DB uses username and password "votingappdbuser".
-QUI can be found from "http://localhost:8090/" and API from "http://localhost:8090/".
+GUI can be found from "http://localhost:8090/" and API from "http://localhost:8090/".
